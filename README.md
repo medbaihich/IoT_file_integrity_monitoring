@@ -15,7 +15,7 @@ If a tampering attempt is detected, the system triggers an **Auto-Heal** mechani
 * **ESP32 Development Board**
 * **LED** (Connected to GPIO 2)
 * **Resistor** (220Ω or similar for the LED)
-* **USB Cable**
+
 
 ## Project Structure
 * `main.py`: The core script containing the FIM logic, simulation, and auto-heal functions.
